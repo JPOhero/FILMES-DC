@@ -10,6 +10,16 @@
 
 
 <item>
+<title>[B]O SEGREDO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1358d98f38948c91e43f7c82ba1416a188c8439&dn=O+Segredo+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/813tgaWrmYL.jpg</thumbnail>
+<fanart>FANART DO FILMEWALLPAPER</fanart>
+<info>O segredo existiu por toda a humanidade, com alguns dos principais líderes de sua época tendo conhecimento sobre ele. Fragmentos do segredo foram encontrados em tradições orais, na literatura, nas religiões e filosofias ao longo dos séculos. Alguns dos maiores professores da atualidade são reunidos para apresentar o segredo na íntegra</info>
+<genre>DOCUMENTARIO</genre>
+<year>2006</year>
+</item>
+
+<item>
 <title>[B]TITULO DO FILME[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
 <thumbnail>THUMBNAIL DO FILMECAPA</thumbnail>
@@ -18,4 +28,3 @@
 <genre>GENERO</genre>
 <year>2021</year>
 </item>
-
