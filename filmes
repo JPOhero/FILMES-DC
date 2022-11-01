@@ -40,8 +40,8 @@
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=URL MAGNET DO TORRENT</link>
+<title>[B]O REI LEAO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b800af992f4321eec71b591f3f240ffb6b5ac08&dn=O+Rei+Le%26atilde%3Bo+%281994%29+BluRay+1080p+3D+HSBS+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
 <thumbnail>THUMBNAIL DO FILMECAPA</thumbnail>
 <fanart>FANART DO FILMEWALLPAPER</fanart>
 <info>TEXTO DE SINOPSE.</info>
