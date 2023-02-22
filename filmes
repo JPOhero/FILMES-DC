@@ -8,18 +8,6 @@
 <year>2021</year>
 </item>
 
-
-<item>
-<title>[B]O SEGREDO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1358d98f38948c91e43f7c82ba1416a188c8439&dn=O+Segredo+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/813tgaWrmYL.jpg</thumbnail>
-<fanart>FANART DO FILMEWALLPAPER</fanart>
-<info>O segredo existiu por toda a humanidade, com alguns dos principais líderes de sua época tendo conhecimento sobre ele. Fragmentos do segredo foram encontrados em tradições orais, na literatura, nas religiões e filosofias ao longo dos séculos. Alguns dos maiores professores da atualidade são reunidos para apresentar o segredo na íntegra</info>
-<genre>DOCUMENTARIO</genre>
-<year>2006</year>
-</item>
-
-
 <item>
 <title>[B]O REI LEAO[/B]</title>
 <link>plugin://plug-in.video.elementum/play?uri=magnet:?xt=urn:btih:48FF2F0405AE458C6E7C3F3DF9E30771099A4F1F&dn=O%20Rei%20Le%C3%A3o%201994%20%281080p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
@@ -40,6 +28,25 @@
 <year>2021</year>
 </item>
 
+<item>
+<title>[B]O SISTEMA[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9d884d99533d2ccaf0a89599ee5b1bf9904a442&dn=VEMTORRENT.COM..MKV.O%20Sistema%202022%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODFhM2JiMTAtNTVlMC00NWQ4LWI3ZWItYThjOWU3OTJiMjBiXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/6_G1bgr8JeHBDALBmHpblhzSheXLHXbcW_wU8xUXloVpo7X5ywTFZbIyqKQX_N91IIaINWRn1I0</fanart>
+<info>Após uma apreensão de drogas, um ex-fuzileiro naval é recrutado pelas autoridades para se esconder em uma prisão notoriamente perigosa. Depois de descobrir um ringue de luta subterrâneo, ele deve lutar para permanecer vivo e derrubar o sistema corrupto..</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]TITULO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=URL MAGNET</link>
+<thumbnail>THUMBNAIL DO FILMECAPA</thumbnail>
+<fanart>FANART DO FILMEWALLPAPER</fanart>
+<info>TEXTO DE SINOPSE.</info>
+<genre>GENERO</genre>
+<year>2021</year>
+</item>
 
 <item>
 <title>[B]TITULO[/B]</title>
